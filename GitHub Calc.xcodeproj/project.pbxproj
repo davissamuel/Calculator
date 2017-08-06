@@ -54,14 +54,22 @@
 		727023761F36ABAB009101C5 /* GitHub Calc */ = {
 			isa = PBXGroup;
 			children = (
-				727023771F36ABAB009101C5 /* AppDelegate.swift */,
+				727023891F36ABC1009101C5 /* Supporting files */,
 				727023791F36ABAB009101C5 /* ViewController.swift */,
 				7270237B1F36ABAB009101C5 /* Main.storyboard */,
+			);
+			path = "GitHub Calc";
+			sourceTree = "<group>";
+		};
+		727023891F36ABC1009101C5 /* Supporting files */ = {
+			isa = PBXGroup;
+			children = (
+				727023771F36ABAB009101C5 /* AppDelegate.swift */,
 				7270237E1F36ABAB009101C5 /* Assets.xcassets */,
 				727023801F36ABAB009101C5 /* LaunchScreen.storyboard */,
 				727023831F36ABAB009101C5 /* Info.plist */,
 			);
-			path = "GitHub Calc";
+			name = "Supporting files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
